@@ -4,7 +4,7 @@
 
 |             |                                                                    |
 | ----------- | ------------------------------------------------------------------ |
-| Twitter     |[@90ch1](https://twitter.com/90ch1)                    |
+| Twitter     |[@gmya_zaki](https://twitter.com/gmya_zaki)                    |
 
 ## テクニカルスキル
 
@@ -76,9 +76,13 @@
 
 ## 職務経歴
 
-### 2016/09 〜 現在 : 株式会社アイデンティティー
+[参照](https://github.com/silver-bullet-club/team-resume)
 
-#### 2017/05 〜 現在 : 新規 HR Tech&Edu Tech サービス立ち上げ
+### 2019/07 〜 現在 : 株式会社デンソー
+
+### 2016/09 〜 2019/04 : 株式会社アイデンティティー
+
+#### 2017/05 〜 2019/04 : 新規 HR Tech&Edu Tech サービス立ち上げ
 
 - 概要
 
@@ -131,7 +135,7 @@
   - JavaScript
   - Azure
 
-#### 2016/09 〜 2017/04 : 新規 CtoC Sharing Echonomy サービス立ち上げ
+#### 2016/09 〜 2017/04 : 新規 CtoC Sharing Economy サービス立ち上げ
 
 - 概要
 

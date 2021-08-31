@@ -11,6 +11,7 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 disableKinds = ["RSS", "sitemap"]
+publishDir = "docs"
 
 [params]
 author = "Gota Miyazaki"

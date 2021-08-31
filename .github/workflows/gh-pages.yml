@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - master  # Set a branch name to trigger deployment
+      - main  # Set a branch name to trigger deployment
 
 jobs:
   deploy:
@@ -33,4 +33,3 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: mya-zaki/mya-zaki.github.io
           publish_branch: master
-          
